@@ -1,4 +1,3 @@
-main-branch
+alpha-branch
 
 first-commit
-second-commit
