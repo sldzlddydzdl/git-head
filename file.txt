@@ -1,5 +1,3 @@
-main-branch
+delta-branch
 
 first-commit
-second-commit
-third-commit
